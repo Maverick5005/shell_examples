@@ -1,3 +1,3 @@
 #!/bin/sh
 
-yum install init
+#yum install init
